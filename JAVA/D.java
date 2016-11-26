@@ -1,11 +1,11 @@
 import java.util.*;
 import java.io.*;
 
-
 /**
  * @Author Eroui Abdelaziz <kapi.abdel@gmail.com>
  * Solution for Problem D ACM MCPC 2016
  */
+
 
 public class D{
 

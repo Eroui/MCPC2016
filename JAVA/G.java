@@ -6,6 +6,7 @@ import java.io.*;
  * Solution for Problem G (going) ACM MCPC 2016
  */
 
+
 public class G {
 	public static int[] h;
 	public static int a, n;

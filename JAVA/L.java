@@ -2,8 +2,9 @@ import java.util.*;
 
 /**
  * @Author Eroui Abdelaziz <kapi.abdel@gmail.com>
- * Solution for Problem G (going) ACM MCPC 2016
+ * Solution for Problem L ACM MCPC 2016
  */
+
 
 public class L {
     public static void main (String[] args) {

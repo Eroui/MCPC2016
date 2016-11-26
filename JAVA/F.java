@@ -1,9 +1,8 @@
 import java.util.*;
 
-
 /**
  * @Author Eroui Abdelaziz <kapi.abdel@gmail.com>
- * Solution for Problem D ACM MCPC 2016
+ * Solution for Problem F ACM MCPC 2016
  */
 
 

@@ -3,8 +3,9 @@ import java.io.*;
 
 /**
  * @Author Eroui Abdelaziz <kapi.abdel@gmail.com>
- * Solution for Problem G (going) ACM MCPC 2016
+ * Solution for Problem J ACM MCPC 2016
  */
+
 
 public class scorify {
     
